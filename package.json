@@ -2,7 +2,8 @@
   "private": true,
   "dependencies": {
     "elm": "^0.19.1-5",
-    "elm-test": "^0.19.1-revision6"
+    "elm-test": "^0.19.1-revision6",
+    "elm-tooling": "^1.2.0"
   },
   "scripts": {
     "test": "elm-test"

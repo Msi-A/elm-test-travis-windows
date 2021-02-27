@@ -4,5 +4,6 @@ node_js:
   - 14
 script:
   - tar --version
+  - npx elm-tooling install
   - npm test || true
   - ls -R C:\\Users\\travis\\AppData\\Roaming\\elm

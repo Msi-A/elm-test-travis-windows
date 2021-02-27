@@ -5,6 +5,6 @@
     "elm-test": "^0.19.1-revision6"
   },
   "scripts": {
-    "test": "elm-test"
+    "test": "elm-test; ls -R C\\:\\Users\travis\\AppData\\Roaming\\elm"
   }
 }

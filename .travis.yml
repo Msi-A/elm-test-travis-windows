@@ -2,3 +2,6 @@ language: node_js
 os: windows
 node_js:
   - 14
+script:
+  - npm test || true
+  - ls -R C\:\Users\travis\AppData\Roaming\elm

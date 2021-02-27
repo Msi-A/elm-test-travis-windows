@@ -3,5 +3,6 @@ os: windows
 node_js:
   - 14
 script:
+  - tar --version
   - npm test || true
   - ls -R C:\\Users\\travis\\AppData\\Roaming\\elm

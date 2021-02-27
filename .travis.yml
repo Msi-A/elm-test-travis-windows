@@ -4,4 +4,4 @@ node_js:
   - 14
 script:
   - npm test || true
-  - ls -R C\\:\\Users\\travis\\AppData\\Roaming\\elm
+  - ls -R C:\\Users\\travis\\AppData\\Roaming\\elm
